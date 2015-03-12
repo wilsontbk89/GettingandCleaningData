@@ -19,7 +19,7 @@ Here, we aim to create an R script that merge the test and training sets togethe
 First, download the [data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip). Then, extract the UCI HAR Dataset in your working directory and name it "UCI HAR Dataset". Once, it is done, proceed to executing "run_analysis.R".
 
 ##Explanation of R Code
-The script run_analysis.R performs the 5 steps described in the course project's definition. For  
+The script run_analysis.R performs the 5 steps described in the course project's definition. For more information, refer to the code book.
 
 ##About the Code Book
 The CodeBook.md file explains the transformations performed and the resulting data and variables.
